@@ -23,7 +23,7 @@
     ],
     "images": [
       {
-        "src": ../../../src/assets/children/child-product/1/full.webp",
+        "src":" ../../../src/assets/children/child-product/1/full.webp",
         "alt": "Two each of gray, white, and black shirts laying flat."
       },
       {
