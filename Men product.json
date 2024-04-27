@@ -1,6 +1,6 @@
  [
   {
-"id":1,
+    "id":1,
     "name": "Shirt",
     "price": "$139.99",
     "href": "#",
@@ -95,7 +95,7 @@
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-"id":2,
+    "id":2,
     "name": "Shirt",
     "price": "$119.99",
     "href": "#",
@@ -190,7 +190,7 @@
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-"id":3,
+    "id":3,
     "name": "Shirt",
     "price": "$139.99",
     "href": "#",
@@ -285,7 +285,7 @@
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-"id":4,
+    "id":4,
     "name": "Shirt",
     "price": "$109.99",
     "href": "#",
@@ -380,7 +380,7 @@
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-id:5,
+    "id":5,
     "name": "Shirt",
     "price": "$219.99",
     "href": "#",
@@ -475,7 +475,7 @@ id:5,
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-"id":6,
+    "id":6,
     "name": "Shirt",
     "price": "$349.99",
     "href": "#",
@@ -570,7 +570,7 @@ id:5,
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-id:7,
+    "id":7,
     "name": "Shirt",
     "price": "$209.99",
     "href": "#",
@@ -665,7 +665,7 @@ id:7,
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
   {
-id:8,
+    "id":8,
     "name": "Shirt",
     "price": "$119.99",
     "href": "#",
