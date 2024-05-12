@@ -1,7 +1,12 @@
  [
   {
     "id":1,
-    "name": "Basic Tee 6-Pack",
+    "name": "Hodies",
+    "gender":"Women",
+    "model":" Women Hodies",
+    "color" : "yellow",
+    "color2":"black",
+    "color3":"green",
     "price": "$192",
     "href": "#",
     "breadcrumbs": [
@@ -97,6 +102,11 @@
   {
     "id":2,
     "name": "Derees",
+    "gender":"Women",
+    "model":" Women Derees",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$160",
     "href": "#",
     "breadcrumbs": [
@@ -192,6 +202,11 @@
   {
     "id":3,
     "name": "Derees",
+    "gender":"Women",
+    "model":" Women Derees",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$130",
     "href": "#",
     "breadcrumbs": [
@@ -286,7 +301,12 @@
   },
   {
     "id":4,
-    "name": "Derees",
+    "name": "Green Derees",
+    "gender":"Women",
+    "model":" Green Women Derees",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$130",
     "href": "#",
     "breadcrumbs": [
@@ -381,7 +401,12 @@
   },
   {
     "id":5,
-    "name": "Derees",
+    "name": "Short",
+    "gender":"Women",
+    "model":" Black Women Short",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$130",
     "href": "#",
     "breadcrumbs": [
@@ -476,7 +501,12 @@
   },
   {
     "id":6,
-    "name": "cloth",
+    "name": " white cloth",
+    "gender":"Women",
+    "model":"White Women Cloth",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$110",
     "href": "#",
     "breadcrumbs": [
@@ -572,6 +602,11 @@
   {
     "id":7,
     "name": "Derees",
+    "gender":"Women",
+    "model":" Women Derees",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$199.99",
     "href": "#",
     "breadcrumbs": [
@@ -666,7 +701,12 @@
   },
   {
     "id":8,
-    "name": "Derees",
+    "name": "Pink Derees",
+    "gender":"Women",
+    "model":"Pink Women Derees",
+    "color" : "Pink",
+    "color2":"black",
+    "color3":"gray",
     "price": "$145",
     "href": "#",
     "breadcrumbs": [
