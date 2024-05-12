@@ -2,6 +2,9 @@
   {
     "id":1,
     "name": "Shirt",
+    "gender":"Men",
+    "model":" Men shirt",
+   "color" : "white",
     "price": "$139.99",
     "href": "#",
     "breadcrumbs": [
