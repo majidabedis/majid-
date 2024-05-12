@@ -1,11 +1,14 @@
- [
+[
   {
     "id":1,
     "name": "Shirt",
     "gender":"Men",
     "model":" Men shirt",
-   "color" : "white",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
     "price": "$139.99",
+    "size":"m,xl,2xl,l",
     "href": "#",
     "breadcrumbs": [
       {
@@ -99,7 +102,13 @@
   },
   {
     "id":2,
-    "name": "Shirt",
+    "name": "jacket",
+    "gender":"Men",
+    "model":" Men jacket",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
+    "size":"m,xl,2xl,l",
     "price": "$119.99",
     "href": "#",
     "breadcrumbs": [
@@ -194,7 +203,13 @@
   },
   {
     "id":3,
-    "name": "Shirt",
+    "name": "cloth",
+    "gender":"Men",
+    "model":" Men cloth",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
+    "size":"m,xl,2xl,l",
     "price": "$139.99",
     "href": "#",
     "breadcrumbs": [
@@ -289,7 +304,13 @@
   },
   {
     "id":4,
-    "name": "Shirt",
+    "name": "t-Shirt",
+    "gender":"Men",
+    "model":" Men t-shirt",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
+    "size":"m,xl,2xl,l",
     "price": "$109.99",
     "href": "#",
     "breadcrumbs": [
@@ -385,6 +406,12 @@
   {
     "id":5,
     "name": "Shirt",
+    "gender":"Men",
+    "model":" Men gray shirt",
+    "color" : "white",
+    "color2":"black",
+    "color3":"green",
+    "size":"m,xl,2xl,l",
     "price": "$219.99",
     "href": "#",
     "breadcrumbs": [
@@ -479,7 +506,13 @@
   },
   {
     "id":6,
-    "name": "Shirt",
+    "name": "black jacket",
+    "gender":"Men",
+    "model":" Men black jacket",
+    "color" : "white",
+    "color2":"red",
+    "color3":"gray",
+    "size":"s,m",
     "price": "$349.99",
     "href": "#",
     "breadcrumbs": [
@@ -572,9 +605,15 @@
     ],
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
-  {
+  { 
     "id":7,
-    "name": "Shirt",
+    "name": "white Shirt",
+    "gender":"Men",
+    "model":" Men white shirt",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
+    "size":"m,xl,2xl,l",
     "price": "$209.99",
     "href": "#",
     "breadcrumbs": [
@@ -669,7 +708,13 @@
   },
   {
     "id":8,
-    "name": "Shirt",
+    "name": "jacket",
+    "gender":"Men",
+    "model":"gray Men jacket",
+    "color" : "white",
+    "color2":"black",
+    "color3":"gray",
+    "size":"m,xl,2xl,l",
     "price": "$119.99",
     "href": "#",
     "breadcrumbs": [
