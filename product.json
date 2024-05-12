@@ -1,9 +1,14 @@
- [
+[
   {
     "id": 1,
     "name": "Shirt & short Set",
+    "gender": "Boy",
+    "model": " Boy Shirt & short Set",
+    "color": "white",
+    "color2": "black",
+    "color3": "green",
     "price": "$111",
-    "href": "childshow1",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -23,19 +28,19 @@
     ],
     "images": [
       {
-        "src":" ../../../src/assets/children/child-product/1/full.webp",
+        "src": "../../../src/assets/children/child-product/1/full.webp",
         "alt": "Two each of gray, white, and black shirts laying flat."
       },
       {
-        "src":" ../../../src/assets/children/child-product/1/product.webp",
+        "src": "../../../src/assets/children/child-product/1/zoomout.webp",
         "alt": "Model wearing plain black basic tee."
       },
       {
-        "src":" ../../../src/assets/children/child-product/1/product.webp",
+        "src": "../../../src/assets/children/child-product/1/zoomin.webp",
         "alt": "Model wearing plain gray basic tee."
       },
       {
-        "src":" ../../../src/assets/children/child-product/1/zoomin.webp",
+        "src": "../../../src/assets/children/child-product/1/product.webp",
         "alt": "Model wearing plain white basic tee."
       }
     ],
@@ -99,11 +104,16 @@
     ],
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   },
-    {
+  {
     "id": 2,
     "name": "Shirt",
+    "gender": "Boy",
+    "model": " Boy Shirt ",
+    "color": "white",
+    "color2": "black",
+    "color3": "green",
     "price": "$112.94",
-    "href": "/childshow2",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -201,9 +211,14 @@
   },
   {
     "id": 3,
-    "name": "Shirt",
+    "name": "t-Shirt",
+    "gender": "Girl",
+    "model": " Children t-Shirt ",
+    "color": "white",
+    "color2": "black",
+    "color3": "green",
     "price": "$89.99",
-    "href": "/childshow3",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -301,9 +316,14 @@
   },
   {
     "id": 4,
-    "name": "Shirt",
+    "name": "jacket",
+    "gender": "Girl",
+    "model": " Girl jacket",
+    "color": "pink",
+    "color2": "black",
+    "color3": "green",
     "price": "$139.99",
-    "href": "/childshow4",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -401,9 +421,14 @@
   },
   {
     "id": 5,
-    "name": "Shirt",
+    "name": "jacket",
+    "gender": "Girl",
+    "model": " Girl jacket",
+    "color": "pink",
+    "color2": "black",
+    "color3": "green",
     "price": "$219.99",
-    "href": "/childshow5",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -501,9 +526,14 @@
   },
   {
     "id": 6,
-    "name": "Shirt",
+    "name": "Drees",
+    "gender": "Girl",
+    "model": " Girl Drees",
+    "color": "white",
+    "color2": "black",
+    "color3": "green",
     "price": "$349.99",
-    "href": "/childshow6",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -601,9 +631,14 @@
   },
   {
     "id": 7,
-    "name": "Shirt",
+    "name": "shirt set",
+    "gender": "Boy",
+    "model": " Boy Shirt  Set",
+    "color": "white",
+    "color2": "black",
+    "color3": "green",
     "price": "$209.99",
-    "href": "/childshow7",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -701,9 +736,14 @@
   },
   {
     "id": 8,
-    "name": "Shirt",
+    "name": "hoodie",
+    "gender": "Boy",
+    "model": " Boy Hoodie",
+    "color": "blue",
+    "color2": "black",
+    "color3": "green",
     "price": "$119.99",
-    "href": "/childshow8",
+    "href": "#",
     "breadcrumbs": [
       {
         "id": 1,
@@ -795,4 +835,3 @@
     "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming \"Charcoal Gray\" limited release."
   }
 ]
-
