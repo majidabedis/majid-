@@ -42,17 +42,17 @@
     ],
     "colors": [
       {
-        "name": "White",
+        "name": "pink",
         "class": "bg-white",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Gray",
+        "name": "yellow",
         "class": "bg-gray-200",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
+        "name": "green",
         "class": "bg-gray-800",
         "selectedClass": "ring-gray-900"
       }
@@ -148,12 +148,12 @@
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "orang",
+        "name": "blue",
         "class": "bg-orange-500",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
+        "name": "green",
         "class": "bg-gray-300",
         "selectedClass": "ring-gray-900"
       }
@@ -243,19 +243,19 @@
       }
     ],
     "colors": [
-      {
-        "name": "red",
-        "class": " bg-amber-200",
-        "selectedClass": "ring-red-400"
-      },
-      {
-        "name": "orang",
-        "class": "bg-red-500",
+   {
+        "name": "pink",
+        "class": "bg-white",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
-        "class": "bg-gray-300",
+        "name": "yellow",
+        "class": "bg-gray-200",
+        "selectedClass": "ring-gray-400"
+      },
+      {
+        "name": "green",
+        "class": "bg-gray-800",
         "selectedClass": "ring-gray-900"
       }
     ],
@@ -445,19 +445,19 @@
       }
     ],
     "colors": [
-      {
-        "name": "red",
-        "class": " bg-amber-200",
-        "selectedClass": "ring-red-400"
-      },
-      {
-        "name": "orang",
-        "class": "bg-red-500",
+       {
+        "name": "pink",
+        "class": "bg-white",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
-        "class": "bg-black",
+        "name": "yellow",
+        "class": "bg-gray-200",
+        "selectedClass": "ring-gray-400"
+      },
+      {
+        "name": "green",
+        "class": "bg-gray-800",
         "selectedClass": "ring-gray-900"
       }
     ],
@@ -546,19 +546,19 @@
       }
     ],
     "colors": [
-      {
-        "name": "white",
-        "class": " bg-white",
-        "selectedClass": "ring-red-400"
-      },
-      {
-        "name": "orang",
-        "class": "bg-red-500",
+   {
+        "name": "pink",
+        "class": "bg-white",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
-        "class": "bg-black",
+        "name": "yellow",
+        "class": "bg-gray-200",
+        "selectedClass": "ring-gray-400"
+      },
+      {
+        "name": "green",
+        "class": "bg-gray-800",
         "selectedClass": "ring-gray-900"
       }
     ],
@@ -653,12 +653,12 @@
         "selectedClass": "ring-red-400"
       },
       {
-        "name": "orang",
+        "name": "blue",
         "class": "bg-green-500",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
+        "name": "green",
         "class": "bg-black",
         "selectedClass": "ring-gray-900"
       }
@@ -749,18 +749,18 @@
     ],
     "colors": [
       {
-        "name": "red",
-        "class": " bg-amber-200",
-        "selectedClass": "ring-red-400"
-      },
-      {
-        "name": "orang",
-        "class": "bg-pink-100",
+        "name": "pink",
+        "class": "bg-white",
         "selectedClass": "ring-gray-400"
       },
       {
-        "name": "Black",
-        "class": "bg-black",
+        "name": "yellow",
+        "class": "bg-gray-200",
+        "selectedClass": "ring-gray-400"
+      },
+      {
+        "name": "green",
+        "class": "bg-gray-800",
         "selectedClass": "ring-gray-900"
       }
     ],
