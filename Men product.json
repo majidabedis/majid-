@@ -127,19 +127,19 @@
     ],
     "images": [
       {
-        "src": "../../../src/assets/men/men-product/2/full.webp",
+        "src": "/image/men-products/men/2/full.webp",
         "alt": "Two each of gray, white, and black shirts laying flat."
       },
       {
-        "src": "../../../src/assets/men/men-product/2/zoomin.webp",
+        "src": "/image/men-products/men/2/zoomin.webp",
         "alt": "Model wearing plain black basic tee."
       },
       {
-        "src": "../../../src/assets/men/men-product/2/zoomin.webp",
+        "src": "/image/men-products/men/2/zoomin.webp",
         "alt": "Model wearing plain gray basic tee."
       },
       {
-        "src": "../../../src/assets/men/men-product/2/zoomout.webp",
+        "src": "/image/men-products/men/2/zoomout.webp",
         "alt": "Model wearing plain white basic tee."
       }
     ],
