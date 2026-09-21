@@ -8,7 +8,7 @@
     "color" : "white",
     "color2":"black",
     "color3":"gray",
-    "price": "$139.99",
+    "price": 139.99,
     "size":"m,xl,2xl,l",
     "href": "#",
     "breadcrumbs": [
@@ -115,7 +115,7 @@
     "color2":"black",
     "color3":"gray",
     "size":"m,xl,2xl,l",
-    "price": "$119.99",
+    "price": 119.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -217,7 +217,7 @@
     "color2":"black",
     "color3":"gray",
     "size":"m,xl,2xl,l",
-    "price": "$139.99",
+    "price": 139.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -319,7 +319,7 @@
     "color2":"black",
     "color3":"gray",
     "size":"m,xl,2xl,l",
-    "price": "$109.99",
+    "price": 109.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -421,7 +421,7 @@
     "color2":"black",
     "color3":"green",
     "size":"m,xl,2xl,l",
-    "price": "$219.99",
+    "price": 219.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -523,7 +523,7 @@
     "color2":"red",
     "color3":"gray",
     "size":"s,m",
-    "price": "$349.99",
+    "price": 349.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -625,7 +625,7 @@
     "color2":"black",
     "color3":"gray",
     "size":"m,xl,2xl,l",
-    "price": "$209.99",
+    "price": 209.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -727,7 +727,7 @@
     "color2":"black",
     "color3":"gray",
     "size":"m,xl,2xl,l",
-    "price": "$119.99",
+    "price": 119.99,
     "href": "#",
     "breadcrumbs": [
       {
