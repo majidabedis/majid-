@@ -8,7 +8,7 @@
     "color": "white",
     "color2": "black",
     "color3": "green",
-    "price": "$111",
+    "price": 111,
     "href": "#",
     "breadcrumbs": [
       {
@@ -114,7 +114,7 @@
     "color": "white",
     "color2": "black",
     "color3": "green",
-    "price": "$112.94",
+    "price": 112.94,
     "href": "#",
     "breadcrumbs": [
       {
@@ -220,7 +220,7 @@
     "color": "white",
     "color2": "black",
     "color3": "green",
-    "price": "$89.99",
+    "price": 89.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -326,7 +326,7 @@
     "color": "pink",
     "color2": "black",
     "color3": "green",
-    "price": "$139.99",
+    "price": 139.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -432,7 +432,7 @@
     "color": "pink",
     "color2": "black",
     "color3": "green",
-    "price": "$219.99",
+    "price": 219.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -538,7 +538,7 @@
     "color": "white",
     "color2": "black",
     "color3": "green",
-    "price": "$349.99",
+    "price": 349.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -644,7 +644,7 @@
     "color": "white",
     "color2": "black",
     "color3": "green",
-    "price": "$209.99",
+    "price": 209.99,
     "href": "#",
     "breadcrumbs": [
       {
@@ -750,7 +750,7 @@
     "color": "blue",
     "color2": "black",
     "color3": "green",
-    "price": "$119.99",
+    "price": 119.99,
     "href": "#",
     "breadcrumbs": [
       {
